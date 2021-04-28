@@ -2,7 +2,7 @@
   NODE_VERSION = "10"
 
 [[redirects]]
-  from = "https://finance.fertindo.com"
-  to = "https://accounts.zoho.com/signin?servicename=ZohoBooks&LOGIN_ID=admin@fertindo.com"
+  from = "https://discord.fertindo.com"
+  to = "https://discord.com/channels/837037537460879370/837057927528579093"
   status = 301
   force = true
